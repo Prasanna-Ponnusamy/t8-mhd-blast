@@ -1,0 +1,17 @@
+# Build directory
+build/
+
+# Simulation output
+*.vtu
+*.pvtu
+*.pvd
+*.csv
+
+# ParaView state and screenshots
+*.pvsm
+*.png
+
+# Editor and operating-system files
+*~
+.vscode/
+.DS_Store
